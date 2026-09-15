@@ -1,3 +1,5 @@
+#create high level regressor for nuisance regressors input for main regressor code
+
 import os
 import numpy as np
 import pandas as pd
