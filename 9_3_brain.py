@@ -1,3 +1,5 @@
+#main file for GLM, calculating average, and plotting brain plot lib
+
 import os
 import sys
 import json
