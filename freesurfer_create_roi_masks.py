@@ -1,3 +1,5 @@
+#using freesurfer labeled sections from neurosynth tstat input to convert into npy ROI masks and plot
+
 import os
 import glob
 import re
