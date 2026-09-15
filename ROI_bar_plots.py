@@ -1,3 +1,5 @@
+#pull individual participant glm beta results from output folder from main regressor script to be averaged and plot differences on bar graphs based on ROI masks and brain regions
+
 import os
 import re
 import glob
